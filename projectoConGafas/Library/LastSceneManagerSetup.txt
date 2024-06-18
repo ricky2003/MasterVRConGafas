@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/cono la locomocion de movimineto con mando .unity
+- path: Assets/todo funcional.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
